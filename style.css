@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid black;
+    background-image: url("back.jpg");
+    padding: 10px;
+    margin: 20px;
+}
+.container button{
+    width: 300px;
+ margin-left: 570px;
+}
+.flex-rps-game{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+
+.flex-rps-game img:hover{
+    box-shadow: 5px 5px 5px 15px blue;
+}
